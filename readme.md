@@ -18,4 +18,4 @@ can be filled by using `config` dictionary which will contain variables set in t
 
 Running `Assignment3Q1App.py` will run all availiable methods for `DataBase` with preset information passed as arguments.
 
-Tested only using Python 3.12.
+Tested only using Python 3.12. [Recording](https://drive.google.com/file/d/1HpuIb4d3O4Ppa36WWrK2z2E7cIgN1Eba/view?usp=drive_link)
