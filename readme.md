@@ -4,7 +4,7 @@
 
 ## Running instructions
 Create a `.env` file in the same directory as `Assignment3Q1App.py`. Fill the .env file with the following variables:
-```json
+```js
 DB_NAME = "your_database_name"
 UNAME = "your_username"
 PASSWORD = "your_password"
