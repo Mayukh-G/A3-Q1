@@ -3,6 +3,8 @@
 * psycopg `pip install psycopg; pip install "psycopg[binary,pool]"`
 
 ## Running instructions
+Create a database using the scripts proved under `testDbCreation`.
+
 Create a `.env` file in the same directory as `Assignment3Q1App.py`. Fill the .env file with the following variables:
 ```js
 DB_NAME = "your_database_name"
